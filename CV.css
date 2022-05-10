@@ -1,0 +1,71 @@
+img{
+	width:20%;
+}
+.introduction
+{
+    color: black;
+}
+.début
+{
+   color: brown;
+}
+   body
+{
+  background-color: white;
+}
+P
+{
+  text-shadow: 2px 2px 4px black ;
+}
+h1
+{
+  text-shadow: 2px 2px 4px black ;
+}
+h2
+{
+  text-shadow: 2px 2px 4px white ;
+} 
+h3
+{
+  text-shadow: 2px 2px 4px black ;
+}
+
+h4
+{
+  text-shadow: 2px 2px 4px black ;
+
+}
+
+h5
+{
+                
+  text-shadow: 2px 2px 4px black ;
+}
+h6
+                  
+{
+ text-shadow: 2px 2px 4px black ;
+                 
+ }
+p
+{
+  border-radius: 10px 5px 10px 5px;
+}
+a:visited 
+{
+  color: blue; 
+                }
+.début    
+{
+  border: 3px inset black;
+  box-shadow: 6px 6px 0px black;
+}
+a:hover {
+  font-weight:bold;
+}
+img
+{
+  border-radius: 10px  pink;
+  background: grey;
+
+}

@@ -57,7 +57,7 @@ a:visited
                 }
 .début    
 {
-  border: 3px inset black;
+  border: 1px inset black;
   box-shadow: 6px 6px 0px black;
 }
 a:hover {

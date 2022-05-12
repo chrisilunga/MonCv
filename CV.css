@@ -1,9 +1,9 @@
 img{
 	width: 10% ;
 }
-.introduction
+p
 {
-    color: black;
+    color: brown;
 }
 .début
 {
@@ -14,7 +14,7 @@ img{
   background-color: white;
 }
 
-h1
+p
 {
   text-shadow: 2px 2px 4px white ;
 }
